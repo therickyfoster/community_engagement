@@ -1,275 +1,302 @@
-# **README.md — *The Frost Veil Engine***
+# **README.md — *The Seasonwheel Engine***
 
-**Project Codename:** *Veilwinter*
-**Primary Domain:** Safety, Boundaries, Emotional Shielding, Mythic Concealment
-**Theme:** ❄️ Frost • Snowfall • Quiet • Protection
+**Project Codename:** *Everturn Cycle*
+**Primary Domain:** Cycles, Emotional Seasons, Mythic Weather, Growth Rhythms
+**Theme:** 🌙 Seasons • Cycles • Turning • Balance
 **Version:** Draft v0.1
 **Length:** ~4k words equivalent
 
 ---
 
-# **❄️ 1. Animated Title Schema (Design Notes)**
+# **🌙 1. Animated Title Schema (Design Notes)**
 
-The title should behave like condensation on glass forming patterns.
+The animation must feel like a cosmic compass rotating slowly.
 
 **Animation Behavior**
-• title begins invisible
-• frost forms across the screen from edges inward
-• ice crystals bloom into letters
-• a soft aurora shimmers behind them
-• final state: letters slightly obscured by drifting frost
+• title begins as four drifting particles in cardinal positions
+• seasonal colors radiate outward: blue, green, gold, amber
+• particles rotate in a slow circular motion
+• letters emerge from the turning light
+• final state: a glowing wheel behind the title
 
-**Color Palette (Veilwinter)**
-• Arctic White (#F7FBFF)
-• Glacier Blue (#C7E8FF)
-• Shadow Silver (#A3ACB8)
-• Deep Night Grey (#20242C)
-• Aurora Mint (#D8FFF1)
+**Color Palette (Everturn Cycle)**
+• Winter Blue (#B8DFFF)
+• Spring Green (#B5FFBD)
+• Summer Gold (#FFE07A)
+• Autumn Amber (#FFB477)
+• Equinox Silver (#DDE7ED)
 
 **Ambient Effects**
-• muted wind
-• soft crystalline crackle
-• faint winter hush
+• low, rhythmic hum
+• light wind swirling
+• soft shifting chime as the wheel turns
 
-Has to feel like protection, not coldness.
-
----
-
-# **❄️ 2. Purpose of the Frost Veil Engine**
-
-Where the Guardian Hearth gives warmth,
-the Frost Veil gives **safety** — symbolic, emotional, narrative.
-
-It answers questions like:
-
-• How does a steward rest without being overwhelmed?
-• How does a community grow without pressure?
-• How does a symbolic system stay human-first?
-• How does mythic outreach avoid unintended influence?
-• How do fragile moments remain undisturbed?
-
-The Frost Veil is a boundary-making engine.
-
-A soft “No.”
-A quiet “Not now.”
-A gentle “This space belongs to you.”
+The whole visual should feel like a cosmic cycle gently rotating behind the steward.
 
 ---
 
-# **❄️ 3. Mythos Layer — “The Snow That Listens”**
+# **🌙 2. Purpose of the Seasonwheel Engine**
 
-Old Winterborn tales describe a kind of sentient snow that fell during times of collective vulnerability.
+Humans do not grow in straight lines —
+we grow in **cycles**.
 
-It muffled the world.
-It hid travelers from danger.
-It concealed wounds from those who might judge them.
-It gave people time to heal.
+Seasons shift internally
+long before they shift outside.
 
-They called it:
+This engine gives stewards:
 
-**“The Veil That Waits.”**
+• emotional pacing
+• symbolic climate
+• inner-season recognition
+• narrative context
+• mythic timekeeping
+• gentle rhythm
+• permission to change
 
-Not to trap.
-Not to obscure.
-But to protect what is tender until it is ready.
+The Seasonwheel ensures the entire system remains humane, cyclical, grounded, and non-linear.
 
-The Frost Veil Engine is the digital echo of this ancestral shield.
+It prevents burnout, pressure, stagnation, and overexertion by reminding stewards:
 
----
-
-# **❄️ 4. What the Frost Veil Actually Does**
-
-This engine symbolically:
-
-• softens overstimulation
-• dampens emotional overwhelm
-• minimizes narrative pressure
-• hides parts of the UI that would cause strain
-• gives space to process
-• protects sensitive symbolic states
-• slows the world down
-
-Mechanically, it crafts:
-
-• safe pacing
-• gentle concealment
-• narrative insulation
-• intuitive buffering
-
-It’s the emotional equivalent of stepping into snowfall and feeling everything quiet down.
+**“This is just your season.
+It will turn.”**
 
 ---
 
-# **❄️ 5. Primary Frost Veil Components**
+# **🌙 3. Mythos Layer — “The Four Who Turned the Sky”**
 
-## **1. The Snowmote Field**
+The Winterborn myth tells of four ancient beings who held the world’s first cycle:
 
-A drifting layer of symbolic flakes representing sensory damping.
+**The Quiet One (Winter)**
+**The Dreamer (Spring)**
+**The Flamebearer (Summer)**
+**The Rememberer (Autumn)**
 
-## **2. The Hushband**
+Together they turned the sky-wheel once every great shift,
+teaching early stewards that life moves not through force,
+but through seasons.
 
-A circular band of quiet around the steward’s interface.
+Their lesson was simple:
 
-## **3. The Veilglass**
+**“Do not rush winter.
+Do not fear autumn.
+Do not cling to summer.
+Do not outrun spring.”**
 
-A frosted overlay that hides overwhelming elements.
-
-## **4. The Shelterscape**
-
-A faint silhouette of a winter cabin or grove — the symbol of safety.
-
-## **5. The Frostglyph**
-
-A mark showing the veil is active, akin to a protective sigil.
-
-## **6. The Temperature Sink**
-
-A visual cooling effect that slows the pacing of the interface.
-
-## **7. The Nightfall Mask**
-
-A darkening gradient used when emotions run high — symbolically, not diagnostically.
-
-Each component communicates one message:
-
-**“You can step back.
-You have room.
-There is no pressure here.”**
+The Everturn Cycle is the digital echo of this wisdom.
 
 ---
 
-# **❄️ 6. Interaction Model (Symbolic Only)**
+# **🌙 4. The Four Seasons (Symbolic States)**
 
-The Frost Veil never reacts to user behavior.
-It fluctuates with *symbolic environmental states*:
+Each season represents a psychological, emotional, mythic, and symbolic climate.
 
-### **A. Seasonal Factors**
+## **1. Winter — Stillness & Survival**
 
-Winter increases veil strength.
-Summer decreases it.
+Color: Winter Blue
+Symbol: Snowflake
+Message: “Rest. Endure. Slow.”
+Traits: introspection, quiet, recalibration, safety, cocooning.
 
-### **B. Ritual Proximity**
+## **2. Spring — Renewal & Curiosity**
 
-During intense ritual chambers, the veil softens edges.
+Color: Spring Green
+Symbol: Sproutline
+Message: “Try. Begin. Rise.”
+Traits: experimentation, lightness, new energy, emergence.
 
-### **C. Hearth Activations**
+## **3. Summer — Warmth & Courage**
 
-If the Hearth warms, the veil thickens — emotional cocooning.
+Color: Summer Gold
+Symbol: Flame
+Message: “Grow. Shine. Act.”
+Traits: expression, vitality, openness, warmth.
 
-### **D. Constellation Drift**
+## **4. Autumn — Memory & Rebalancing**
 
-During aurora-heavy sky patterns, veil becomes translucent.
+Color: Autumn Amber
+Symbol: Leaf
+Message: “Understand. Release. Prepare.”
+Traits: reflection, integration, meaning-making, honesty.
 
-### **E. Frostmark Growth**
-
-If the Frostmark has active edges, veil adds clarity.
-
-### **F. Seed Pathway Formation**
-
-New pathlines often temporarily reinforce the veil.
-
-### **G. Lineage Echo Moments**
-
-Deep echoes trigger veil hush patterns.
-
-This engine is **pure symbolism**, and never inference.
-
----
-
-# **❄️ 7. The Veilspace (UI/UX)**
-
-Veilspace is the protected-mode variation of the interface.
-
-Looks like:
-
-• edges softened
-• contrast lowered
-• lighting cooler
-• motion reduced
-• elements faded
-• options fewer
-• icons smaller and muted
-• everything slower
-
-It’s like quiet snowfall turned into UI.
+No season is superior.
+All cycles are necessary for real human growth.
 
 ---
 
-# **❄️ 8. Community Protection Layer**
+# **🌙 5. The Four Hidden Micro-Seasons**
 
-Communities need their own Frost Veil.
+Between major seasons lie “micro-states” that represent emotional transitions.
 
-Symbolically, the engine shields:
+### **1. Thaw (Winter → Spring)**
 
-• early-stage groups
-• vulnerable projects
-• new stewards stepping forward
-• grief rituals
+A moment where clarity begins to warm.
+
+### **2. Ascend (Spring → Summer)**
+
+Energy rising upward, courage forming.
+
+### **3. Fadewarm (Summer → Autumn)**
+
+Warmth softens into recollection.
+
+### **4. Emberfall (Autumn → Winter)**
+
+Preparation for quiet, storing symbolic warmth.
+
+These transitions are gentle and purely metaphorical.
+
+---
+
+# **🌙 6. Path Integration (The Season/Bio-Arc Map)**
+
+Seasons deeply affect:
+
+• seed pathway formation
+• vow resonance
+• ritual family expression
+• constellation arcs
+• Frostmark geometry
+• Hearth warmth cycles
+• Whisperline auroral patterns
+
+Example:
+
+• Winter increases Frost Veil strength
+• Spring accelerates Mnemonic Seed sprouting
+• Summer brightens the Hearth
+• Autumn deepens Lineage Echoes
+
+The seasonwheel runs beneath *everything*.
+
+---
+
+# **🌙 7. Interaction Model (Symbolic Only)**
+
+The Seasonwheel does *not* track time.
+It tracks **narrative climate**.
+
+It changes when:
+
+• rituals cluster
+• vow dominant shifts
+• Hearth warmth increases or decreases
+• Constellation arcs stabilize
+• Frostmark undergoes notable symbolic growth
+• Seed Pathways cross certain structures
+• Whisperline signals align
+
+There are no timers.
+No metrics.
+No predictions.
+
+Only metaphor.
+Only resonance.
+
+---
+
+# **🌙 8. UI/UX — The Wheel Itself**
+
+The Seasonwheel appears subtly:
+
+• a faint wheel beneath the interface
+• shifting colors depending on season
+• drifting symbols
+• gentle rotational motion
+• occasionally pulses during transitions
+
+It should never distract.
+Only contextualize the emotional climate.
+
+Examples of visual behavior:
+
+• Winter: wheel slows dramatically
+• Spring: wheel brightens and rotates lightly
+• Summer: wheel glows warmly
+• Autumn: wheel darkens into amber hues
+
+Transitions are slow, soft fades.
+
+---
+
+# **🌙 9. Communal Season States**
+
+Communities can have seasons too.
+
+Symbolically, not behaviorally.
+
+A community’s season is influenced by:
+
+• shared rituals
+• collective actions
+• restoration events
 • winter campfires
-• replanting events
-• community restoration gatherings
+• replanting moments
+• mutual grief or healing
+• collective growth arcs
+• large symbolic shifts
 
-The engine uses snowmote signatures to dampen intensity during these times:
+Communal seasons shift slowly,
+creating a shared mythic climate.
 
-Not silence —
-just softening.
+This helps communities pace themselves.
 
 ---
 
-# **❄️ 9. IndexedDB Structure (Symbolic)**
+# **🌙 10. IndexedDB Structure (Symbolic)**
 
 ```
 {
-  frost_veil_state,
-  snowmote_density,
-  hushband_radius,
-  veilglass_opacity,
-  shelterscape_state,
-  frostglyph_pattern,
-  nightfall_mask_strength,
-  seasonal_modulation,
-  hearth_interaction,
-  lineage_echo_interaction
+  seasonwheel_state,
+  current_season,
+  microseason,
+  symbolic_climate,
+  ritual_influence,
+  vow_bias,
+  frostmark_alignment,
+  constellation_phase,
+  hearth_temperature,
+  whisperline_color,
+  pathway_growth_bias
 }
 ```
 
-Everything is contextual, aesthetic, symbolic — never personal.
+Nothing tied to identity or time.
+Everything symbolic.
 
 ---
 
-# **❄️ 10. Zero-Harm Safeguards**
+# **🌙 11. Zero-Harm Safeguards**
 
-The Frost Veil must:
+The Seasonwheel:
 
-• never block access
-• never hide critical information
-• never assess emotional state
-• never isolate
-• never manipulate pace
-• never imply fragility
-• never override agency
+• never dictates behavior
+• never prescribes mood
+• never infers emotion
+• never evaluates well-being
+• never limits options
+• never predicts patterns
+• never assumes anything
 
-Its role is subtle, quiet, and always optional.
+Its job is to **contextualize**, not control.
 
-The message is always:
-
-**“You’re allowed to slow down.”**
+It offers space, not structure.
 
 ---
 
-# **❄️ 11. Closing Invocation**
+# **🌙 12. Closing Invocation**
 
-**“Snow falls not to bury,
-but to protect.”**
+**“Every season changes.
+Every season returns.”**
 
-The Frost Veil Engine exists because every steward — every human — eventually needs space where noise is softened, light is dimmed, edges are blurred, and the world feels safe again.
+The Everturn Cycle is the reminder
+that nothing in a steward’s journey —
+pain, hope, stillness, clarity, courage, loss, renewal —
+is permanent.
 
-This veil does not silence.
-It shields.
-It does not isolate.
-It shelters.
-It does not alter your path.
-It guards your becoming.
+Life turns.
+Stories turn.
+People turn.
 
-Walk gently.
-The snow will hold.
+You are exactly where your season needs you to be.
+
+The wheel will turn again.
